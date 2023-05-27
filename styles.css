@@ -8,7 +8,7 @@ body {
   font-family: Arial, sans-serif;
 }
 
-#link-container-1 a {
+#link-container a {
   display: block;
   color: white;
   background-color: hotpink;
@@ -18,7 +18,7 @@ body {
   border-radius: 5px;
 }
 
-#link-container-2 a {
+#link-container a {
   display: block;
   color: white;
   background-color: lightblue;
@@ -28,10 +28,7 @@ body {
   border-radius: 5px;
 }
 
-#link-container-1 a:hover {
+#link-container a:hover {
   background-color: purple;
 }
 
-#link-container-2 a:hover {
-  background-color: purple;
-}
