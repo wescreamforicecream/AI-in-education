@@ -10,7 +10,7 @@ body {
 
 #link-container a {
   display: block;
-  color: pink;
+  color: black;
   background-color: lightblue;
   text-decoration: none;
   padding: 10px;
@@ -19,7 +19,7 @@ body {
 }
 
 #link-container a:hover {
-  background-color: lavender;
-  color: pink;
+  background-color: purple;
+  color: white;
 }
 
