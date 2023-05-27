@@ -18,17 +18,7 @@ body {
   border-radius: 5px;
 }
 
-#link-container a {
-  display: block;
-  color: white;
-  background-color: lightblue;
-  text-decoration: none;
-  padding: 10px;
-  margin-bottom: 10px;
-  border-radius: 5px;
-}
-
 #link-container a:hover {
-  background-color: purple;
+  background-color: lavender;
 }
 
